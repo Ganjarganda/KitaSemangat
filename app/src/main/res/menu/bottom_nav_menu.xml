@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_beranda"
+        android:icon="@drawable/ic_vector_beranda"
+        android:title="@string/beranda" />
+
+    <item
+        android:id="@+id/navigation_info"
+        android:icon="@drawable/ic_vector_info"
+        android:title="@string/info" />
+
+</menu>
